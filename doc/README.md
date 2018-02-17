@@ -19,10 +19,15 @@ https://github.com/stefantalpalaru/golib
 https://github.com/draffensperger/go-interlang
 - examples only.
 
+# other ways
+https://github.com/mokiat/go-data-front
+- convert skp to OBJ and then use this to interface..
+
 # rhino sdk
 they also have an sdk, and i know heaps of architects that use rhino.
 https://github.com/mcneel/rhino-developer-samples
 - c samples.
 - docs: http://developer.rhino3d.com/api/
+	- Common is the cross platform one and so in c.
 	- http://developer.rhino3d.com/api/RhinoCommon/html/N_Rhino_FileIO.htm
 		- File3DM looks like the file format !
