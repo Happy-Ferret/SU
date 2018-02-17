@@ -18,3 +18,9 @@ https://github.com/stefantalpalaru/golib
 
 https://github.com/draffensperger/go-interlang
 - examples only.
+
+# rhino sdk
+they also have an sdk, and i know heaps of architects that use rhino.
+https://github.com/mcneel/rhino-developer-samples
+- c samples.
+- docs: http://developer.rhino3d.com/api/
